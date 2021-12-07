@@ -13,8 +13,8 @@ object Main {
         //r.eat(r)
         //w.eat(c)
         // Expected result: 
-        // Rabbit crunches the  Carrot
-        // Wolf tears apart the Rabbit
+        // Rabbit crunches the Carrot
+        // Wolf crunches the  Rabbit
     }
 }
 
